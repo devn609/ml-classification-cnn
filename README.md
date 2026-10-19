@@ -64,10 +64,10 @@ This project implements a Deep Learning pipeline to classify diseases in tomato 
         Method: POST
         Payload: Form-data with key file (the image)
         Example Response:
-        JSON{
+        JSON {
                 "class": "Tomato_Early_blight",
                 "confidence": 0.984
-            }
+             }
 
 📊 Performance
 	Metric Value
