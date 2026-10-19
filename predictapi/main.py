@@ -6,6 +6,7 @@ from PIL import Image
 import uvicorn
 from fastapi.middleware.cors import CORSMiddleware
 
+# fast API app
 app = FastAPI()
 
 # Add the middleware to your app
