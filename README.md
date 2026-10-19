@@ -42,6 +42,7 @@ This project implements a Deep Learning pipeline to classify diseases in tomato 
 	<code>
    	Download the Tomato dataset from Kaggle (PlantVillage). Place the images in the data/ directory.
 	</code>
+
 🧠 Model Training
 	To train the model from scratch, run the training script. This will perform data augmentation, training, and save the final model as an .keras file.
 	<code>
