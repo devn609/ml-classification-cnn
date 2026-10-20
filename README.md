@@ -14,6 +14,7 @@ This project implements a Deep Learning pipeline to classify diseases in tomato 
     Healthy
 
 🏗️ Architecture
+
 	<code>
 	The system consists of two main components:
 	Model Training: A CNN architecture built with TensorFlow/Keras, utilizing layers like Conv2D, MaxPooling2D, Dropout, and Dense.
@@ -29,7 +30,8 @@ This project implements a Deep Learning pipeline to classify diseases in tomato 
    	Bash python -m venv venv
    	source venv/bin/activate
    	On Windows: venv\Scripts\activate
-	</code>	
+	</code>
+	
 2. Installation
 	<code>
 	Clone the repository and install the required dependencies:
@@ -38,6 +40,7 @@ This project implements a Deep Learning pipeline to classify diseases in tomato 
    		cd <root_folder>
    		pip install -r requirements.txt
 	</code>
+
 3. Dataset
 	<code>
    	Download the Tomato dataset from Kaggle (PlantVillage). Place the images in the data/ directory.
