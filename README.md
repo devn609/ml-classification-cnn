@@ -1,4 +1,5 @@
 # Tomato Leaf Disease Classification using CNN
+
 This project implements a Deep Learning pipeline to classify diseases in tomato leaves using the PlantVillage dataset. It includes a trained Convolutional Neural Network (CNN) and a Flask-based REST API to serve predictions.
 
 📌 Project Overview
